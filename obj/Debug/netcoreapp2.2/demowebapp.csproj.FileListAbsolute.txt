@@ -1,0 +1,14 @@
+C:\Manish\playground\demo\demowebapp\bin\Debug\netcoreapp2.2\demowebapp.deps.json
+C:\Manish\playground\demo\demowebapp\bin\Debug\netcoreapp2.2\demowebapp.runtimeconfig.json
+C:\Manish\playground\demo\demowebapp\bin\Debug\netcoreapp2.2\demowebapp.runtimeconfig.dev.json
+C:\Manish\playground\demo\demowebapp\bin\Debug\netcoreapp2.2\demowebapp.dll
+C:\Manish\playground\demo\demowebapp\bin\Debug\netcoreapp2.2\demowebapp.pdb
+C:\Manish\playground\demo\demowebapp\obj\Debug\netcoreapp2.2\demowebapp.csprojAssemblyReference.cache
+C:\Manish\playground\demo\demowebapp\obj\Debug\netcoreapp2.2\demowebapp.csproj.CoreCompileInputs.cache
+C:\Manish\playground\demo\demowebapp\obj\Debug\netcoreapp2.2\demowebapp.RazorAssemblyInfo.cache
+C:\Manish\playground\demo\demowebapp\obj\Debug\netcoreapp2.2\demowebapp.RazorAssemblyInfo.cs
+C:\Manish\playground\demo\demowebapp\obj\Debug\netcoreapp2.2\demowebapp.AssemblyInfoInputs.cache
+C:\Manish\playground\demo\demowebapp\obj\Debug\netcoreapp2.2\demowebapp.AssemblyInfo.cs
+C:\Manish\playground\demo\demowebapp\obj\Debug\netcoreapp2.2\demowebapp.RazorTargetAssemblyInfo.cache
+C:\Manish\playground\demo\demowebapp\obj\Debug\netcoreapp2.2\demowebapp.dll
+C:\Manish\playground\demo\demowebapp\obj\Debug\netcoreapp2.2\demowebapp.pdb
